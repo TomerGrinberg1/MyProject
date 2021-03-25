@@ -3,5 +3,6 @@ public class MyClass {
 
         int i =7;
         int k=8;
+        int j=4;
     }
 }
